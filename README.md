@@ -1,2 +1,2 @@
 # Download-seismic-data-Jweed
-The PDF file shows a simple example used to download seismic data from IRIS
+The file in .docx format shows a simple example used to download seismic data from IRIS
